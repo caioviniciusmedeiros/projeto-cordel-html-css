@@ -11,7 +11,7 @@
 body{
     background-color: lightgrey;
     font-family: cordelina;
-    width: 100vw;
+    width: 99.1vw;
 }
 
 header{
@@ -24,7 +24,6 @@ header > h1{
     padding-top: 40px;
     padding-bottom: 40px;
     font-size: 4em;
-    width: 100vw;
 }
 
 /*conteudo*/
@@ -33,7 +32,6 @@ section{
     padding: 30px;
     line-height: 2em;
     font-size: 2em;
-    width: 100vw;
 }
 
 .normal{
